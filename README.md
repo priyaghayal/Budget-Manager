@@ -45,5 +45,5 @@ Project is created with:
 ![Editprofile](https://user-images.githubusercontent.com/53147571/85844104-d34e9300-b7bf-11ea-87f9-b17d768c99f7.png)
 
 ## License
-[![License]()](https://github.com/priyaghayal/Budget-Manager/blob/master/LICENSE)
+[![License GNU v3.0]](https://github.com/priyaghayal/Budget-Manager/blob/master/LICENSE)
 
